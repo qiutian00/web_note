@@ -8,8 +8,7 @@ source show ,... and my plan
 
 ### ecma-262 standard:
 > * http://www.ecma-international.org/ecma-262/5.1/index.html
-> * http://www.ecma-international.org/ecma-262/9.0/>  
-> * index.html#sec-normative-references
+> * http://www.ecma-international.org/ecma-262/9.0/index.html#sec-normative-references
 
 ### 印记中文：
 > * https://docschina.org/
