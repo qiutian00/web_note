@@ -13,7 +13,7 @@ source show ,... and my plan
 ### 印记中文：
 > * https://docschina.org/
 
-### promoses 文档
+### promises 文档
 > * http://liubin.org/promises-book/
 > * 在线工具的哦：https://jsfiddle.net/
 
@@ -21,8 +21,8 @@ source show ,... and my plan
 > * https://taro.js.org/
 
 ### type
-> * 网址分类的（css es 5, es 6 中的 ,datastructer, markdwon:文档的记录 规范：js code style）
-> * 资源的分类（kindle 中, javascript-learn-book：高效性能的）
+> * 1.网址分类的（css es 5, es 6 standard ,datastructer,  规范：js code style）
+> * 2.资源的分类 from my respositories in github
 
 ### kindel 网址：
 > * https://github.com/it-ebooks/kindle114-rsrc-gathering
@@ -40,10 +40,20 @@ source show ,... and my plan
 > * 1.the same (java) data-structer 
 > * 2.javascript-algorithms (后续的)
 > * 3.js-bits-cn-used(know something more)    
-> * util中的；common.js的实现的哦 art-template的实现的
+> * util中的；undersource.js的实现的哦 art-template的实现的
 	
 	
 ### books：
-> * css 世界!!! ，javascript语言精粹的!!!
+> * css 世界
+> * javascript-learn-book：javascript语言精粹的;高效性能javacript
 
-### extra things：书籍(西藏生死书)  picture music
+### extra things：books of 西藏生死书  picture music
+
+### nodejs
+> * https://github.com/chyingp/nodejs-learning-guide
+> * https://github.com/chyingp/node-in-debugging
+
+
+> * https://github.com/chyingp/report/tree/master/bin
+> * https://github.com/chyingp/error-code
+> * https://github.com/chyingp/tech-experiment
