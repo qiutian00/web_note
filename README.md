@@ -57,3 +57,8 @@ source show ,... and my plan
 > * https://github.com/chyingp/report/tree/master/bin
 > * https://github.com/chyingp/error-code
 > * https://github.com/chyingp/tech-experiment
+
+### local books
+> * file:///F:/all_doc/%E4%B8%8B%E8%BD%BD%E8%B5%84%E6%96%99/chrome_download/Manning.Functional.Programming.in.JavaScript.2016.6.pdf
+> * file:///F:/all_doc/%E4%B8%8B%E8%BD%BD%E8%B5%84%E6%96%99/chrome_download/Hig_Performancejs_jb51/jb51.net/[%E9%AB%98%E6%80%A7%E8%83%BDJavaScript%E7%BC%96%E7%A8%8B]%E6%96%87%E5%AD%97%E7%89%88.pdf
+> * 
