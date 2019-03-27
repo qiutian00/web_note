@@ -62,8 +62,8 @@ source show ,... and my plan
 > * https://github.com/chyingp/tech-experiment
 
 ### local books
-> * Manning.Functional.Programming.in.JavaScript.2016.6.pdf
-> * [高性能JavaScript编程]文字版.pdf
+> * Manning.Functional.Programming.in.JavaScript.2016.6.pdf (https://github.com/qiutian00/web_note/tree/master/e-books)
+> * [高性能JavaScript编程]文字版.pdf (https://github.com/qiutian00/web_note/tree/master/e-books)
 
 
 ### es6 .etc
