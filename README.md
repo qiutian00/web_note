@@ -15,6 +15,7 @@ source show ,... and my plan
 
 ### promises 文档
 > * http://liubin.org/promises-book/
+> * https://segmentfault.com/a/1190000004365693
 > * 在线工具的哦：https://jsfiddle.net/
 
 ## jd jiaoshoujia
@@ -50,7 +51,9 @@ source show ,... and my plan
 ### extra things：books of 西藏生死书  picture music
 
 ### nodejs
+> * 菜鸟教程; offical document:https://nodejs.org/docs/latest-v10.x/api/index.html
 > * https://github.com/chyingp/nodejs-learning-guide
+> * https://github.com/qiutian00/Express-learning-guide; express api:http://expressjs.com/en/4x/api.html
 > * https://github.com/chyingp/node-in-debugging
 
 
@@ -61,4 +64,8 @@ source show ,... and my plan
 ### local books
 > * file:///F:/all_doc/%E4%B8%8B%E8%BD%BD%E8%B5%84%E6%96%99/chrome_download/Manning.Functional.Programming.in.JavaScript.2016.6.pdf
 > * file:///F:/all_doc/%E4%B8%8B%E8%BD%BD%E8%B5%84%E6%96%99/chrome_download/Hig_Performancejs_jb51/jb51.net/[%E9%AB%98%E6%80%A7%E8%83%BDJavaScript%E7%BC%96%E7%A8%8B]%E6%96%87%E5%AD%97%E7%89%88.pdf
-> * 
+
+
+### es6 .etc
+> * https://segmentfault.com/a/1190000004365693
+> * https://github.com/getify/You-Dont-Know-JS 
