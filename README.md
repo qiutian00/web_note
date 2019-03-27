@@ -25,7 +25,7 @@ source show ,... and my plan
 > * 1.网址分类的（css es 5, es 6 standard ,datastructer,  规范：js code style）
 > * 2.资源的分类 from my respositories in github
 
-### kindel 网址：
+### kindle 网址：
 > * https://github.com/it-ebooks/kindle114-rsrc-gathering
 > * chinese book： https://mega.nz/#F!qQUwUTKR!okYrzPOauVIaFj4GNSRZfA
 > * https://salttiger.com/  （所提到的：https://bookdl.com/page/2/ ;https://www.foxebook.net/search/javascript）
@@ -48,7 +48,7 @@ source show ,... and my plan
 > * css 世界
 > * javascript-learn-book：javascript语言精粹的;高效性能javacript
 
-### extra things：books of 西藏生死书  picture music
+### extra things：some other books,  picture music
 
 ### nodejs
 > * 菜鸟教程; offical document:https://nodejs.org/docs/latest-v10.x/api/index.html
@@ -62,8 +62,8 @@ source show ,... and my plan
 > * https://github.com/chyingp/tech-experiment
 
 ### local books
-> * file:///F:/all_doc/%E4%B8%8B%E8%BD%BD%E8%B5%84%E6%96%99/chrome_download/Manning.Functional.Programming.in.JavaScript.2016.6.pdf
-> * file:///F:/all_doc/%E4%B8%8B%E8%BD%BD%E8%B5%84%E6%96%99/chrome_download/Hig_Performancejs_jb51/jb51.net/[%E9%AB%98%E6%80%A7%E8%83%BDJavaScript%E7%BC%96%E7%A8%8B]%E6%96%87%E5%AD%97%E7%89%88.pdf
+> * Manning.Functional.Programming.in.JavaScript.2016.6.pdf
+> * [高性能JavaScript编程]文字版.pdf
 
 
 ### es6 .etc
