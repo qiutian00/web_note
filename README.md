@@ -33,15 +33,16 @@ source show ,... and my plan
 
 ## my plan( some soure is now in my github repositories)
 
-### nearby to do:
-> * vQuery的基本的学习的哦;  基本的常见的方法自己编写的哦
-> * jQuery的56个课程学习的:面向对象的思想 from the computer(后续的)
-	
+### nearby to do:	
+> * 03.29 start:
 > * 再者是js-data-structer ; 
 > * 1.the same (java) data-structer 
 > * 2.javascript-algorithms (后续的)
-> * 3.js-bits-cn-used(know something more)    
+> * 3.js-bits-cn-used(know something more)
+
 > * util中的；undersource.js的实现的哦 art-template的实现的
+> * vQuery的基本的学习的哦;  基本的常见的方法自己编写的哦
+> * jQuery的56个课程学习的:面向对象的思想 from the computer(后续的)
 	
 	
 ### books：
@@ -67,5 +68,5 @@ source show ,... and my plan
 
 
 ### es6 .etc
-> * https://segmentfault.com/a/1190000004365693
+> * https://segmentfault.com/a/1190000004365693  03.29 start
 > * https://github.com/getify/You-Dont-Know-JS 
