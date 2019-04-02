@@ -68,5 +68,6 @@ source show ,... and my plan
 
 
 ### es6 .etc
-> * https://segmentfault.com/a/1190000004365693  03.29 start
+> * basic note: https://segmentfault.com/a/1190000004365693
+> * detail info: http://es6.ruanyifeng.com/#docs/intro
 > * https://github.com/getify/You-Dont-Know-JS 
