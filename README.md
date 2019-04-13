@@ -46,8 +46,9 @@ source show ,... and my plan
 	
 	
 ### books：
+> * 0411 start:
 > * css 世界
-> * javascript-learn-book：javascript语言精粹的;高效性能javacript
+> * javascript-learn-book：javascript语言精粹的;高效性能javacript;JavaScript权威指南
 
 ### extra things：some other books,  picture music
 
@@ -56,6 +57,8 @@ source show ,... and my plan
 > * https://github.com/chyingp/nodejs-learning-guide
 > * https://github.com/qiutian00/Express-learning-guide; express api:http://expressjs.com/en/4x/api.html
 > * https://github.com/chyingp/node-in-debugging
+> * nodejs 实战
+> * nodejs 深入浅出
 
 
 > * https://github.com/chyingp/report/tree/master/bin
