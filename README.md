@@ -74,3 +74,25 @@ source show ,... and my plan
 > * basic note: https://segmentfault.com/a/1190000004365693
 > * detail info: http://es6.ruanyifeng.com/#docs/intro
 > * https://github.com/getify/You-Dont-Know-JS 
+
+### css
+> * https://www.w3cplus.com/css/css-at-rules-and-css-conditional.html
+> * https://github.com/chokcoco/CSS-Inspiration
+> * https://github.com/hanzichi/css-secrets
+> * CSS 世界 books
+
+### other js utils
+> * https://github.com/lodash/lodash
+> * https://github.com/limingziqiang/functions
+
+### fanny english video
+> * https://www.khanacademy.org/computing/computer-programming/
+
+### github stars manager
+> * https://app.astralapp.com/dashboard?language=JavaScript
+
+### test
+> * https://github.com/boyney123/mockit
+
+### CI
+> * https://github.com/ovh/cds
