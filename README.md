@@ -96,3 +96,9 @@ source show ,... and my plan
 
 ### CI
 > * https://github.com/ovh/cds
+
+#### notice
+when I feel something is going, but I want to do is 
+> * sharing my feelings;
+> * finding the girl friend;
+> * smiling at life;
