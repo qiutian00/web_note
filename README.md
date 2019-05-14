@@ -79,6 +79,7 @@ source show ,... and my plan
 > * https://www.w3cplus.com/css/css-at-rules-and-css-conditional.html
 > * https://github.com/chokcoco/CSS-Inspiration
 > * https://github.com/hanzichi/css-secrets
+> * https://github.com/chokcoco/iCSS
 > * CSS 世界 books
 
 ### other js utils
