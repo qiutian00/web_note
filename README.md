@@ -80,6 +80,7 @@ source show ,... and my plan
 > * https://github.com/chokcoco/CSS-Inspiration
 > * https://github.com/hanzichi/css-secrets
 > * https://github.com/chokcoco/iCSS  https://github.com/chokcoco/magicCss >> https://github.com/cssmagic/CSS-Secrets(与上面的相似)
+> * https://github.com/30-seconds/30-seconds-of-css
 > * CSS 世界 books
 
 ### other js utils
