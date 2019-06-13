@@ -14,9 +14,10 @@ source show ,... and my plan
 > * https://docschina.org/
 
 ### promises 文档
-> * http://liubin.org/promises-book/
-> * https://segmentfault.com/a/1190000004365693
-> * 在线工具的哦：https://jsfiddle.net/
+> * [promises-book]http://liubin.org/promises-book/
+> * [i5 ting Promise篇](https://cnodejs.org/topic/560dbc826a1ed28204a1e7de)
+> * [asynchronous JavaScript](https://github.com/caolan/async)
+> * [Promise/A+自定义](https://cnodejs.org/topic/5603cb8a152fdd025f0f5014)
 
 ## jd jiaoshoujia
 > * https://taro.js.org/
