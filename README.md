@@ -99,6 +99,9 @@ source show ,... and my plan
 ### CI
 > * https://github.com/ovh/cds
 
+### writing
+陈述的文笔：更加让人容易接受的，可以[参考](https://cnodejs.org/topic/560dbc826a1ed28204a1e7de)
+
 ### basic importance
 css,js basic,writing,test for method,english
 
