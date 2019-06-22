@@ -103,6 +103,11 @@ source show ,... and my plan
 ### writing
 陈述的文笔：更加让人容易接受的，可以[参考](https://cnodejs.org/topic/560dbc826a1ed28204a1e7de)
 
+### 参考的前端生态圈 [from](https://github.com/sorrycc/sorrycc.com)
+> * [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+> * [awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs)
+> * [awesome-tools](https://github.com/sorrycc/awesome-tools)
+
 ### basic importance
 css,js basic,writing,test for method,english
 
