@@ -117,3 +117,8 @@ when I feel something is going, but I want to do is
 > * finding the girl friend;
 > * smiling at life;
 
+### tools
+[teadoc](http://docs.teadocs.cn/cn/install.html)
+[流程管理的](todo)
+[mock for test](https://github.com/boyney123/mockit)
+[Gitea coding by golang](https://github.com/go-gitea/gitea)  &&  [Gogs codeing also by golang](https://github.com/gogs)
