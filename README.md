@@ -18,9 +18,6 @@ source show ,... and my plan
 > * https://segmentfault.com/a/1190000004365693
 > * 在线工具的哦：https://jsfiddle.net/
 
-## jd jiaoshoujia
-> * https://taro.js.org/
-
 ### type
 > * 1.网址分类的（css es 5, es 6 standard ,datastructer,  规范：js code style）
 > * 2.资源的分类 from my respositories in github
