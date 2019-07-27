@@ -121,3 +121,7 @@ when I feel something is going, but I want to do is
 [wekan 类似jira的](https://github.com/wekan/wekan)
 [mock for test](https://github.com/boyney123/mockit)
 [Gitea coding by golang](https://github.com/go-gitea/gitea)  &&  [Gogs codeing also by golang](https://github.com/gogs)
+
+### 0727
+[MDN web docs](https://developer.mozilla.org/zh-CN/docs/Web)
+[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
