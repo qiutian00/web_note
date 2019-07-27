@@ -68,10 +68,11 @@
 > * [高性能JavaScript编程文字版](https://github.com/qiutian00/web_note/tree/master/e-books)
 
 
-### es6 .etc
+### js and es6 .etc
 > * [basic note from segmentfault](https://segmentfault.com/a/1190000004365693)
 > * [ruanyifeng's detail info](http://es6.ruanyifeng.com/#docs/intro)
-> * [You-Dont-Know-JS Book](https://github.com/getify/You-Dont-Know-JS )
+> * [You-Dont-Know-JS Book](https://github.com/getify/You-Dont-Know-JS)
+> * [javascript-tutorial](https://github.com/javascript-tutorial)
 
 ### css
 > * [css-at-rules-and-css-conditional](https://www.w3cplus.com/css/css-at-rules-and-css-conditional.html)
@@ -89,7 +90,7 @@
 > * [computer-programming](https://www.khanacademy.org/computing/computer-programming/)
 
 ### github stars manager
-> * [the first](https://app.astralapp.com/dashboard?language=JavaScript)
+> * [astral](https://app.astralapp.com/dashboard?language=JavaScript)
 
 ### test
 > * [mockit](https://github.com/boyney123/mockit)
@@ -120,6 +121,8 @@ when I feel something is going, but I want to do is
 > * [mock for test](https://github.com/boyney123/mockit)
 > * [Gitea coding by golang](https://github.com/go-gitea/gitea)  &&  [Gogs codeing also by golang](https://github.com/gogs)
 
-### 0727
+### web develop wiki
 > * [MDN web docs](https://developer.mozilla.org/zh-CN/docs/Web)
+
+### question
 > * [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
