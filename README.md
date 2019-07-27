@@ -16,9 +16,10 @@
 > * https://docschina.org/
 
 ### promises 文档
-> * http://liubin.org/promises-book/
-> * https://segmentfault.com/a/1190000004365693
-> * 在线工具的哦：https://jsfiddle.net/
+> * [promises-book](http://liubin.org/promises-book/)
+> * [i5 ting Promise篇](https://cnodejs.org/topic/560dbc826a1ed28204a1e7de)
+> * [asynchronous JavaScript](https://github.com/caolan/async)
+> * [Promise/A+自定义](https://cnodejs.org/topic/5603cb8a152fdd025f0f5014)
 
 ### type
 > * 1.网址分类的（css es 5, es 6 standard ,datastructer,  规范：js code style）
@@ -78,6 +79,8 @@
 > * https://www.w3cplus.com/css/css-at-rules-and-css-conditional.html
 > * https://github.com/chokcoco/CSS-Inspiration
 > * https://github.com/hanzichi/css-secrets
+> * https://github.com/chokcoco/iCSS  https://github.com/chokcoco/magicCss >> https://github.com/cssmagic/CSS-Secrets(与上面的相似)
+> * https://github.com/30-seconds/30-seconds-of-css
 > * CSS 世界 books
 
 ### other js utils
@@ -95,3 +98,26 @@
 
 ### CI
 > * https://github.com/ovh/cds
+
+### writing
+陈述的文笔：更加让人容易接受的，可以[参考](https://cnodejs.org/topic/560dbc826a1ed28204a1e7de)
+
+### 参考的前端生态圈 [from](https://github.com/sorrycc/sorrycc.com)
+> * [awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+> * [awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs)
+> * [awesome-tools](https://github.com/sorrycc/awesome-tools)
+
+### basic importance
+css,js basic,writing,test for method,english
+
+### notice
+when I feel something is going, but I want to do is 
+> * sharing my feelings;
+> * finding the girl friend;
+> * smiling at life;
+
+### tools
+[teadoc](http://docs.teadocs.cn/cn/install.html)
+[wekan 类似jira的](https://github.com/wekan/wekan)
+[mock for test](https://github.com/boyney123/mockit)
+[Gitea coding by golang](https://github.com/go-gitea/gitea)  &&  [Gogs codeing also by golang](https://github.com/gogs)
