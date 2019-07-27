@@ -1,8 +1,10 @@
 # web_note
 
-------
+> introduction: source show and my plan
 
-source show ,... and my plan
+> add here standard: basic note and some extraly I needed
+
+------
 
 ## source show
 
