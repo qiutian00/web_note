@@ -75,7 +75,6 @@
 > * [javascript-tutorial](https://github.com/javascript-tutorial)
 
 ### css
-> * [css-at-rules-and-css-conditional](https://www.w3cplus.com/css/css-at-rules-and-css-conditional.html)
 > * chokcoco's sharing: [CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) [iCSS](https://github.com/chokcoco/iCSS) [magicCss](https://github.com/chokcoco/magicCss)
 > * [css-secrets](https://github.com/hanzichi/css-secrets)
 > * [与上面的相似 CSS-Secrets](https://github.com/cssmagic/CSS-Secrets)
