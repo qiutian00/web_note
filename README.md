@@ -77,7 +77,7 @@
 ### css
 > * chokcoco's sharing: [CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration) [iCSS](https://github.com/chokcoco/iCSS) [magicCss](https://github.com/chokcoco/magicCss)
 > * [css-secrets](https://github.com/hanzichi/css-secrets)
-> * [与上面的相似 CSS-Secrets](https://github.com/cssmagic/CSS-Secrets)
+> * [CSS-Secrets 原书籍介绍](https://github.com/cssmagic/CSS-Secrets)
 > * [30-seconds-of-css](https://github.com/30-seconds/30-seconds-of-css)
 > * CSS 世界 books
 
