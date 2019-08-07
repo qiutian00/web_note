@@ -126,3 +126,7 @@ when I feel something is going, but I want to do is
 
 ### question
 > * [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
+
+### design idea
+> * 专访[《写给大家看的设计书》](http://www.ituring.com.cn/article/41065)作者Robin Williams
+> * [好设计不简单Ⅱ](http://www.ituring.com.cn/book/tupubarticle/4167)
