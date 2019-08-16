@@ -123,6 +123,7 @@ when I feel something is going, but I want to do is
 
 ### web develop wiki
 > * [MDN web docs](https://developer.mozilla.org/zh-CN/docs/Web)
+> * [HTML5-Templates](https://github.com/cssgist/HTML5-Templates/blob/master/index.html)
 
 ### question
 > * [提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
