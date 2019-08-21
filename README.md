@@ -131,3 +131,9 @@ when I feel something is going, but I want to do is
 ### design idea
 > * 专访[《写给大家看的设计书》](http://www.ituring.com.cn/article/41065)作者Robin Williams
 > * [好设计不简单Ⅱ](http://www.ituring.com.cn/book/tupubarticle/4167)
+
+
+### 前端错误日志上报
+> * [可能是最全一篇的前端异常监控总结](https://zenghongtu.com/可能是最全一篇的前端异常监控总结/)
+> * [脚本错误量极致优化-监控上报与Script error](https://github.com/joeyguo/blog/issues/13)
+> * [脚本错误量极致优化-让脚本错误一目了然](https://github.com/joeyguo/blog/issues/14)
